@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedGamal29
-- 👀 I’m interested in software enginering
-- 🌱 I’m currently learning web devolpment
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on do the best
 - 📫 How to reach me asdfgh852013@gmail.com
 
