@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohamedGamal29
+- 👋 Hi, I’m @Mohamed Gamal
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning Computer vision
 - 💞️ I’m looking to collaborate on do the best
